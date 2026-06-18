@@ -68,6 +68,7 @@ body{
     border-radius: 8px;
     backdrop-filter: blur(5px);
     border: 1px solid rgba(219, 119, 6, 0.1);
+    margin-bottom: 50px;
 }
 
 select{
